@@ -1,1 +1,6 @@
 this is login feature
+
+git merge [branchname] 
+git branch 
+git branch [branchname]
+git checkout [branchname]
